@@ -101,7 +101,7 @@ dist/
 将 dist 目录中的文件复制到：
 
 ```txt
-Aeroshell/plugins/你的插件目录/
+Aeroshell安装目录的/plugins/welcome/
 ```
 
 例如：
