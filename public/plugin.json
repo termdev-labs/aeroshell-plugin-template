@@ -1,8 +1,8 @@
 {
-  "name": "welcome",
-  "displayName": "默认大屏信息",
+  "name": "test",
+  "displayName": "测试插件",
   "version": "1.0.0",
-  "desc": "默认大屏信息",
+  "desc": "测试插件",
   "category": "运维",
   "author": "Aeroshell"
 }
